@@ -1,13 +1,13 @@
 {
   "name": "@bishop254/rule-901",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rule 901 is to calculate the number of transactions the debtor has made over a period",
   "main": "index.ts",
   "files": [
     "lib"
   ],
   "publishConfig": {
-    "@frmscoe:registry": "https://npm.pkg.github.com/"
+    "@bishop254:registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "build": "tsc --project tsconfig.json",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frmscoe/rule-901.git"
+    "url": "git+https://github.com/bishop254/tazama-rule-901.git"
   },
   "keywords": [
     "rule-901"
